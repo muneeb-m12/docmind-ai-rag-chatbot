@@ -1,0 +1,27 @@
+DocMind Demo Company - Employee Handbook 2026
+
+Welcome to DocMind Demo Company. This handbook is a sample document for testing the DocMind AI RAG chatbot. Upload it, then ask questions like: How many vacation days do employees get? What is the remote work policy? How does sick leave work?
+
+Working Hours and Remote Work Policy
+Our standard working hours are 9:00 AM to 6:00 PM, Monday to Friday, Pakistan Standard Time. Employees may work remotely up to 3 days per week with manager approval. Remote employees must be available on Slack during core hours from 10:00 AM to 4:00 PM and must attend all scheduled team meetings by video. Employees who work fully remotely for more than 30 consecutive days need written approval from Human Resources.
+
+Vacation and Annual Leave
+Full-time employees receive 20 paid vacation days per year in addition to public holidays. Vacation days accrue monthly and up to 5 unused vacation days can be carried over to the next calendar year. Employees must request vacation at least 14 days in advance through the HR portal, and vacations longer than 10 consecutive days require director approval. Part-time employees receive vacation on a pro-rata basis.
+
+Sick Leave Policy
+Employees are entitled to 10 paid sick days per year. For absences of 3 or more consecutive days, a medical certificate from a registered doctor is required. Sick leave does not carry over to the next year. If an employee is sick during approved vacation, those days can be converted to sick leave if a medical certificate is provided within 5 working days.
+
+Probation and Confirmation
+New employees serve a probation period of 3 months. During probation, either party may end employment with 1 week of notice. After successful probation, employees are confirmed in writing and become eligible for the company health insurance plan and the annual performance bonus. The notice period after confirmation is 1 month for both the employee and the company.
+
+Compensation, Bonus and Payroll
+Salaries are paid on the last working day of each month by bank transfer. The company offers an annual performance bonus of up to 1 month salary, based on individual performance reviews held in December. Performance reviews happen twice a year, in June and December. Salary increments are decided after the December review and take effect from January.
+
+Health Insurance and Benefits
+Confirmed employees are covered by the company health insurance plan, which includes outpatient, inpatient, and dental cover up to PKR 500,000 per year. Employees can add dependents to the plan at a subsidised rate. The company also provides a monthly internet allowance of PKR 3,000 for remote workers and a one-time home office setup allowance of PKR 25,000.
+
+Code of Conduct and Confidentiality
+Employees must treat colleagues, clients and partners with respect. Harassment, discrimination and bullying are not tolerated and may lead to immediate dismissal. All client data, source code and internal documents are confidential. Employees must not share confidential information outside the company, store company code on personal repositories, or work on competing freelance projects without written permission.
+
+Resignation and Exit Process
+To resign, an employee must submit written notice to their manager and HR and serve the 1 month notice period after confirmation. During the exit process the employee must complete a handover, return all company equipment including laptops within 3 days of the last working day, and attend an exit interview with HR. Final settlement is paid within 15 days of the last working day.
